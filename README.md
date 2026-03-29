@@ -109,3 +109,49 @@ Latencia alta (> 7 días)
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+🌍📊 **Cuando el momentum “dice algo”… pero la tendencia tarda en confirmarlo**
+
+En teoría, las señales de mercado deberían alinearse rápidamente.
+Pero en la práctica, no siempre ocurre así.
+
+👉 Analicé la **latencia entre señales de momentum (RSI) y tendencia (SMA 50)**, segmentando por **sector y mercado (país)**.
+
+💡 **Insight clave:**
+Existen combinaciones de **sector + país** donde el RSI anticipa movimientos…
+pero la confirmación por tendencia tarda varios días.
+
+---
+
+📈 **¿Qué medí?**
+
+* Cruce de debilidad en RSI (< 50)
+* Confirmación posterior por SMA 50 (precio por debajo)
+* Diferencia en días entre ambas señales
+* Promedio por sector y mercado
+
+---
+
+🧠 **¿Cómo interpretarlo?**
+
+* Baja latencia → mercado eficiente (rápida confirmación)
+* Alta latencia → señales desacopladas → posible ineficiencia
+* RSI anticipando → oportunidad antes de la “confirmación oficial”
+
+---
+
+⚡ **¿Por qué importa?**
+
+Porque revela algo muy potente:
+
+* No todos los mercados procesan la información igual
+* Algunas geografías o sectores reaccionan más lento
+* Esa demora puede transformarse en **ventaja competitiva**
+
+---
+
+📌 Pregunta para la comunidad:
+¿Han notado que ciertos mercados o sectores “llegan tarde” a confirmar tendencias?
+
+#QuantFinance #DataScience #Trading #StockMarket #Momentum #Alpha #MachineLearning #Analytics
